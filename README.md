@@ -40,7 +40,7 @@ A escolha de uma empresa existente deu-se para utilizar a linguagem visual já e
 ## Como Rodar o Projeto
 Trata-se de um site estático utilizando HTML, CSS e Javascript, assim é possível clonar o projeto e rodá-lo no vscode de forma simples seguindo os seguintes passos:
 
-1- Faça uma cópia do projeto em sua máquina utilizando o comando ``` git clone ```
+1- Faça uma cópia do projeto em sua máquina utilizando o comando ``` git clone https://github.com/ERAjeje/EdsonAjejeAtiv2.git ```
 
 2- Navegue até a pasta do projeto e abra o vscode
 

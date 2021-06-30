@@ -42,7 +42,7 @@ Trata-se de um site estático utilizando HTML, CSS e Javascript, assim é possí
 
 1- Faça uma cópia do projeto em sua máquina utilizando o comando 
 ``` 
-git clone https://github.com/ERAjeje/EdsonAjejeAtiv2.git 
+git clone https://github.com/ERAjeje/Atividade-2-Tecnologia-Web.git 
 ```
 
 2- Navegue até a pasta do projeto e abra o vscode
